@@ -1,6 +1,6 @@
 # airupdate
 
-A new Flutter project.
+A Flutter application for weather updates
 
 ## Getting Started
 
